@@ -4,15 +4,15 @@
 - 💞️ I’m looking to collaborate on beggining projects
 - 📫 How to reach me "treib159@gmail.com"
 
-[![Gabriel Treib's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrieltreib&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Gabriel Treib's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrieltreib&theme=tokyonight)]
 
 --- 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieltreib&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieltreib&layout=compact&theme=tokyonight)]
 
 --- 
 
-[![Gabriel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gabrieltreib)](https://github.com/anuraghazra/github-readme-stats)
+[![Gabriel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gabrieltreib)]
 
 
 <!---
