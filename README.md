@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on beggining projects
 - 📫 How to reach me "treib159@gmail.com"
 
+<img alignt="left" alt="Gabriel Treib GITHUB Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=gabrieltreib)" />
+
 <!---
 gabrieltreib/gabrieltreib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
