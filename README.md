@@ -12,7 +12,7 @@
 
 --- 
 
-[![Gabriel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gabrieltreib)]
+[![Gabriel's wakatime stats](https://wakatime.com/share/@gabrieltreib/87b5a279-6688-411f-aec1-66c9e4188a60.svg")]
 
 
 <!---
