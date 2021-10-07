@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @gabrieltreib
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning React JS
+- 🌱 I’m currently learning SQL Server
 - 💞️ I’m looking to collaborate on beggining projects
 - 📫 How to reach me "treib159@gmail.com"
 
